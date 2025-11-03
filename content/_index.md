@@ -34,7 +34,7 @@ interests = [
 
 [[extra.avatar_icons]]
   icon = "email"
-  link = "florence.goffette-nagot@cnrs.fr"
+  link = "mailto:florence.goffette-nagot@cnrs.fr"
 +++
 
 
