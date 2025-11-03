@@ -24,13 +24,17 @@ interests = [
 #  year = 2020
 
 [[extra.education.courses]]
-  course = "HDR"
-  institution = "Université de Bourgone"
-  year = 1996
+  course = "Cergic"
+  institution = "ENS de Lyon"
+  year = CNRS
 
 [[extra.avatar_icons]]
   icon = "github"
   link = "https://github.com/FlorenceGN"
+
+[[extra.avatar_icons]]
+  icon = "mail"
+  link = "florence.goffette-nagot@cnrs.fr"
 +++
 
 
