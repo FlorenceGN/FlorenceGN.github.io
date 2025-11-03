@@ -38,7 +38,7 @@ I am a CNRS Research Professor at the Center for Economic Research on Governance
 
 My primary research areas are housing and urban economics, focusing on policies, residential segregation, and the relationship between residence and labor market outcomes. 
 
-Together with Geoffrey Caruso at the University of Luxembourg, I am the recipient a research grant from the French National Research Agency (ANR) to lead a research project titled "Cities at wORk: Job Location and Inequalities" (CORJOLIS, 2026-2029).  
+Together with Geoffrey Caruso at the University of Luxembourg, I am the recipient of a research grant from the French National Research Agency (ANR) on "Cities at wORk: Job Location and Inequalities" (Corjolis, 2026-2029).
 
 I am the co-organizer of the [Public Policies, Cities, and Regions workshops](https://www.cergic-lyon.fr/ppcrworkshops), 2017, 2019, 2023, and 2025.
 
