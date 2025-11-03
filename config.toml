@@ -2,7 +2,7 @@
 base_url = "https://florencegn.github.io"
 
 # Title displayed in the index page
-title = "F. Goffette-Nagot"
+title = "Florence Goffette-Nagot"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -48,6 +48,7 @@ menu_items = [
   { path = "/cv", name = "CV" },
   { path = "/research", name = "Research" },
   { path = "/teaching", name = "Teaching" },
+  { path = "/corjolis", name = "ANR Corjolis" },
 #  { path = "#anrcorjolis", name = "ANR Corjolis" },
 #  { path = "#contacts", name = "Contact" },
 ]
