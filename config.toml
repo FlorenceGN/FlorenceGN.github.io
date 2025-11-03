@@ -18,9 +18,9 @@ theme = "kodama-theme"
 highlight_code = false
 
 [translations]
-Biography = "Biography"
-Interests = "Interests"
-Education = "Education"
+Biography = "About me"
+Interests = "Research interests"
+Education = "Affilations"
 toc = "Table of Contents"
 Published = "Published"
 Abstract = "Abstract"
