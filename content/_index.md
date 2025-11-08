@@ -32,9 +32,9 @@ interests = [
   icon = "github"
   link = "https://github.com/FlorenceGN"
 
-[[extra.avatar_icons]]
-  icon = "mail"
-  link = "mailto:florence.goffette-nagot@cnrs.fr"
+#[[extra.avatar_icons]]
+#  icon = "mail"
+#  link = "mailto:florence.goffette-nagot@cnrs.fr"
 +++
 
 
