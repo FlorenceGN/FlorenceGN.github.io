@@ -33,7 +33,7 @@ interests = [
   link = "https://github.com/FlorenceGN"
 
 [[extra.avatar_icons]]
-  icon = "email"
+  icon = "mail"
   link = "mailto:florence.goffette-nagot@cnrs.fr"
 +++
 
