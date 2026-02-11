@@ -17,7 +17,6 @@ Corjolis is a PRCI project that brings together economists and geographers from 
 
 {{ image_row(images=[
     {src="images/gate.png", alt="", width=100},
-    {src="images/cergic.png", alt="", width=100},
     {src="images/lux.png", alt="", width=100},
     {src="images/idees.png", alt="", width=100}
 ]) }}
