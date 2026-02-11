@@ -15,7 +15,7 @@ Corjolis is a PRCI project that brings together economists and geographers from 
 - **GATE**, UMR 5824, Univ. Jean Monnet, Saint-Etienne (Co-PI [Mathieu Sanch-Maritan](https://sites.google.com/site/sanchmaritan))   
 - **IDEES**, UMR 6266, Univ. of Rouen (Co-PI, [Rémi Lemoy](https://umr-idees.fr/annuaire/remi-lemoy))    
 
-![](resize_image(/img/corjolis_4logos.png, width = 100, op = "fit_width"))
+![](/img/corjolis_4logos_small.png)
 
 <br>
 
