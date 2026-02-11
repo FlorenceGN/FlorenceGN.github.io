@@ -15,8 +15,12 @@ Corjolis is a PRCI project that brings together economists and geographers from 
 - **GATE**, UMR 5824, Univ. Jean Monnet, Saint-Etienne (Co-PI  {{ external_link(url="https://sites.google.com/site/sanchmaritan", text="Mathieu Sanch-Maritan") }}      
 - **IDEES**, UMR 6266, Univ. of Rouen (Co-PI, {{ external_link(url="https://umr-idees.fr/annuaire/remi-lemoy", text="Rémi Lemoy") }}    
 
-![](/img/corjolis_4logos_small.png)
+<!-- Co![](/img/gate.png)![](/img/cergic.png)![](/img/lux.png)![](/img/idees.png)ment -->
 
+{{ resize(path="/img/gate.png", width=100) }}
+{{ resize(path="/img/cergic.png", width=100) }}
+{{ resize(path="/img/lux.png", width=100) }}
+{{ resize(path="/img/idees.png", width=100) }}
 
 **Keywords:** job location, intra-urban inequalities, models of
 urban geography, scaling laws and urban gradients.
