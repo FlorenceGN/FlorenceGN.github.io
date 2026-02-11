@@ -22,7 +22,7 @@ Corjolis is a PRCI project that brings together economists and geographers from 
 **Keywords:** job location, intra-urban inequalities, models of
 urban geography, scaling laws and urban gradients.
 
-**Abstract**
+### **Abstract**
 
 In France, as in other developed countries, recent years have seen an increase in geographical inequalities, both between cities and within cities. We are also witnessing a polarization of the labor market, i.e. a decline in the proportion of medium-skilled jobs. The result of these two trends is an increase in income inequalities within cities, particularly the larger ones, and a heightened risk of residential segregation, which can reinforce inequalities through neighborhood effects.
 
