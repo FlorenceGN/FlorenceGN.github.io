@@ -7,23 +7,24 @@ weight = 4
 ## Cities at wORk: JOb Location and InequalitieS   
 #### Project funded by the French National Research Agency (ANR).   
 
+<br>
 
 Corjolis is a PRCI project that brings together economists and geographers from four partner institutions:    
-- **Department of Geography and Spatial Planning , Univ. of Luxembourg** (Co-PI Geoffrey Caruso)    
-- **CERGIC**, EMR 5001, ENS de Lyon (PI, Florence Goffette-Nagot)    
-- **IDEES**, UMR 6266, Univ. of Rouen (Co-PI, Rémi Lemoy)    
-- **GATE**, UMR 5824, Univ. Jean Monnet, Saint-Etienne (Co-PI Mathieu Sanch-Maritan)   
+- **Department of Geography and Spatial Planning , Univ. of Luxembourg** (Co-PI [Geoffrey Caruso](https://www.uni.lu/fhse-en/people/geoffrey-caruso/))    
+- **CERGIC**, EMR 5001, ENS de Lyon (PI, [Florence Goffette-Nagot](https://florencegn.github.io/))    
+- **GATE**, UMR 5824, Univ. Jean Monnet, Saint-Etienne (Co-PI [Mathieu Sanch-Maritan](https://sites.google.com/site/sanchmaritan))   
+- **IDEES**, UMR 6266, Univ. of Rouen (Co-PI, [Rémi Lemoy](https://umr-idees.fr/annuaire/remi-lemoy))    
 
-![](/img/corjolis_4logos.png)
+![](resize_image(/img/corjolis_4logos.png, width = 100, op = "fit_width"))
 
-<br><br><br>
+<br>
 
 **Keywords:** job location, intra-urban inequalities, models of
 urban geography, scaling laws and urban gradients.
 
 **Abstract**
 
-In France, as in other developed countries, recent years have seen an increase in geographical inequalities, both between cities and within cities. We are also witnessing a polarization of the labor market, i.e. a decline in the proportion of medium-skilled jobs. The result of these twotrends is an increase in income inequalities within cities, particularly the larger ones, and a heightened risk of residential segregation, which can reinforce inequalities through neighborhood effects.
+In France, as in other developed countries, recent years have seen an increase in geographical inequalities, both between cities and within cities. We are also witnessing a polarization of the labor market, i.e. a decline in the proportion of medium-skilled jobs. The result of these two trends is an increase in income inequalities within cities, particularly the larger ones, and a heightened risk of residential segregation, which can reinforce inequalities through neighborhood effects.
 
 **CORJOLIS** will study the mechanisms by which changes in the labor market affect the **internal structure of cities and intra-urban inequalities in the case of France**. The project will result in four main contributions:
 
