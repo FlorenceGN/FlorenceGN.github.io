@@ -15,17 +15,17 @@ Corjolis is a PRCI project that brings together economists and geographers from 
 - **GATE**, UMR 5824, Univ. Jean Monnet, Saint-Etienne (Co-PI  {{ external_link(url="https://sites.google.com/site/sanchmaritan", text="Mathieu Sanch-Maritan") }})      
 - **IDEES**, UMR 6266, Univ. of Rouen (Co-PI, {{ external_link(url="https://umr-idees.fr/annuaire/remi-lemoy", text="Rémi Lemoy") }})      
 
-<!-- Co![](/img/gate.png)![](/img/cergic.png)![](/img/lux.png)![](/img/idees.png)ment -->
-
-{{ resize(path="/img/gate.png", width=100) }} 
-{{ resize(path="/img/cergic.png", width=100) }}
-{{ resize(path="/img/lux.png", width=100) }}
-{{ resize(path="/img/idees.png", width=100) }}
+{{ image_row(images=[
+    {src="images/gate.png", width=100},
+    {src="images/cergic.png", width=100},
+    {src="images/lux.png", width=100},
+    {src="images/idees.png", width=100}
+]) }}
 
 **Keywords:** job location, intra-urban inequalities, models of
 urban geography, scaling laws and urban gradients.
 
-### **Abstract**
+### **Short presentation**
 
 In France, as in other developed countries, recent years have seen an increase in geographical inequalities, both between cities and within cities. We are also witnessing a polarization of the labor market, i.e. a decline in the proportion of medium-skilled jobs. The result of these two trends is an increase in income inequalities within cities, particularly the larger ones, and a heightened risk of residential segregation, which can reinforce inequalities through neighborhood effects.
 

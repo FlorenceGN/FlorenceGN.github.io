@@ -18,7 +18,7 @@ does not take into account the effect of past residential densities on location 
 gap by estimating dynamic panel data models on cohorts of French people followed from late childhood to
 adulthood over several decades, from 1968 to 2013.
 
-* *Public housing sellings and housing markets* (with [Romain Durand](https://durandro.github.io/) and [Paavo Monkkennen](https://global.luskin.ucla.edu/faculty-members/paavo-monkkonen/))   
+* *Public housing sellings and housing markets* (with [Romain Durand](https://durandro.github.io/) and [Paavo Monkkonen](https://global.luskin.ucla.edu/faculty-members/paavo-monkkonen/))   
 The aim of this work is to measure the interactions between the private housing market and
 housing sales by social landlords, in order to highlight the impact of the local housing market situation on
 the sales behavior of social landlords, who may seek to sell in high-value neighborhoods in order to generate
