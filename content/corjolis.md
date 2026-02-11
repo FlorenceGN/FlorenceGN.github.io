@@ -10,14 +10,14 @@ weight = 4
 <br>
 
 Corjolis is a PRCI project that brings together economists and geographers from four partner institutions:    
-- **Department of Geography and Spatial Planning , Univ. of Luxembourg** (Co-PI {{ external_link(url="https://www.uni.lu/fhse-en/people/geoffrey-caruso/", text="Geoffrey Caruso") }})     
-- **CERGIC**, EMR 5001, ENS de Lyon (PI, {{ external_link(url="https://florencegn.github.io/", text="Florence Goffette-Nagot") }}       
-- **GATE**, UMR 5824, Univ. Jean Monnet, Saint-Etienne (Co-PI  {{ external_link(url="https://sites.google.com/site/sanchmaritan", text="Mathieu Sanch-Maritan") }}      
-- **IDEES**, UMR 6266, Univ. of Rouen (Co-PI, {{ external_link(url="https://umr-idees.fr/annuaire/remi-lemoy", text="Rémi Lemoy") }}    
+- **CERGIC**, EMR 5001, ENS de Lyon (PI, {{ external_link(url="https://florencegn.github.io/", text="Florence Goffette-Nagot") }})       
+- **Department of Geography and Spatial Planning , Univ. of Luxembourg** (Co-PI {{ external_link(url="https://www.uni.lu/fhse-en/people/geoffrey-caruso/", text="Geoffrey Caruso")}})     
+- **GATE**, UMR 5824, Univ. Jean Monnet, Saint-Etienne (Co-PI  {{ external_link(url="https://sites.google.com/site/sanchmaritan", text="Mathieu Sanch-Maritan") }})      
+- **IDEES**, UMR 6266, Univ. of Rouen (Co-PI, {{ external_link(url="https://umr-idees.fr/annuaire/remi-lemoy", text="Rémi Lemoy") }})      
 
 <!-- Co![](/img/gate.png)![](/img/cergic.png)![](/img/lux.png)![](/img/idees.png)ment -->
 
-{{ resize(path="/img/gate.png", width=100) }}
+{{ resize(path="/img/gate.png", width=100) }} 
 {{ resize(path="/img/cergic.png", width=100) }}
 {{ resize(path="/img/lux.png", width=100) }}
 {{ resize(path="/img/idees.png", width=100) }}
