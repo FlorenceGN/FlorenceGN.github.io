@@ -10,10 +10,10 @@ weight = 4
 <br>
 
 Corjolis is a PRCI project that brings together economists and geographers from four partner institutions:    
-- **CERGIC**, EMR 5001, ENS de Lyon (PI, {{ external_link(url="https://florencegn.github.io/", text="Florence Goffette-Nagot") }})       
+- **CERGIC**, EMR 5001, ENS de Lyon (PI, {{ external_link(url="https://florencegn.github.io/", text="Florence Goffette-Nagot")}})       
 - **Department of Geography and Spatial Planning , Univ. of Luxembourg** (Co-PI {{ external_link(url="https://www.uni.lu/fhse-en/people/geoffrey-caruso/", text="Geoffrey Caruso")}})     
-- **GATE**, UMR 5824, Univ. Jean Monnet, Saint-Etienne (Co-PI  {{ external_link(url="https://sites.google.com/site/sanchmaritan", text="Mathieu Sanch-Maritan") }})      
-- **IDEES**, UMR 6266, Univ. of Rouen (Co-PI, {{ external_link(url="https://umr-idees.fr/annuaire/remi-lemoy", text="Rémi Lemoy") }})      
+- **GATE**, UMR 5824, Univ. Jean Monnet, Saint-Etienne (Co-PI  {{ external_link(url="https://sites.google.com/site/sanchmaritan", text="Mathieu Sanch-Maritan")}})      
+- **IDEES**, UMR 6266, Univ. of Rouen (Co-PI, {{ external_link(url="https://umr-idees.fr/annuaire/remi-lemoy", text="Rémi Lemoy")}})      
 
 {% image_row(images=[
     {src="images/gate.png", alt="", width=100},
