@@ -10,9 +10,11 @@ weight = 4
 
 Corjolis is a PRCI project that brings together economists and geographers from four partner institutions:    
 - **Department of Geography and Spatial Planning , Univ. of Luxembourg** (Co-PI Geoffrey Caruso)    
-- **CERGIC**, ENS de Lyon (PI, Florence Goffette-Nagot)    
-- **IDEES**, UMR at Univ. of Rouen (Co-PI, Rémi Lemoy)    
+- **CERGIC**, EMR 5001, ENS de Lyon (PI, Florence Goffette-Nagot)    
+- **IDEES**, UMR 6266, Univ. of Rouen (Co-PI, Rémi Lemoy)    
 - **GATE**, UMR 5824, Univ. Jean Monnet, Saint-Etienne (Co-PI Mathieu Sanch-Maritan)   
+
+![Alt text](/static/img/corjolis_4logos.png)
 
 **Keywords:** job location, intra-urban inequalities, models of
 urban geography, scaling laws and urban gradients.
