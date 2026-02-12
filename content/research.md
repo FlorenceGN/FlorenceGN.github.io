@@ -10,7 +10,7 @@ weight = 1
 This article aims to test the influence of interactions with neighbors on the job-seeking behavior of unemployed
 individuals. Using data from the 2014-2019 Employment Surveys, which identify two nested levels of neighborhoods,
 we estimate a model of endogenous and contextual effects à la Manski (1993) applied to different job search
-methods. 
+methods. [[Working paper](https://hal.science/CERGIC-WP/hal-05471268v1)]
 
 * *A dynamic perspective on preferences for residential density* (with [Yves Schaeffer](https://lessem.lyon-grenoble.hub.inrae.fr/membres/yves-schaeffer))   
 This project aims to provide a better understanding of household demand for residential density. Existing work
