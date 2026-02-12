@@ -7,7 +7,6 @@ weight = 4
 ## Cities at wORk: JOb Location and InequalitieS   
 #### Project funded by the French National Research Agency (ANR).   
 
-<br>
 
 Corjolis is a PRCI project that brings together economists and geographers from four partner institutions:    
 - **CERGIC**, EMR 5001, ENS de Lyon (PI, {{ external_link(url="https://florencegn.github.io/", text="Florence Goffette-Nagot")}})       
@@ -15,15 +14,19 @@ Corjolis is a PRCI project that brings together economists and geographers from 
 - **GATE**, UMR 5824, Univ. Jean Monnet, Saint-Etienne (Co-PI  {{ external_link(url="https://sites.google.com/site/sanchmaritan", text="Mathieu Sanch-Maritan")}})      
 - **IDEES**, UMR 6266, Univ. of Rouen (Co-PI, {{ external_link(url="https://umr-idees.fr/annuaire/remi-lemoy", text="Rémi Lemoy")}})      
 
-{% image_row(images=[
-    {src="images/gate.png", alt="", width=100},
-    {src="images/cergic.png", alt="", width=100},
-    {src="images/lux.png", alt="", width=100},
-    {src="images/idees.png", alt="", width=100}
-]) %}
+<center><img src="/img/corjolis_4logos_row_small.png"></center>
 
+<!--
 **Keywords:** job location, intra-urban inequalities, models of
 urban geography, scaling laws and urban gradients.
+-->
+
+**2026/02 - Job offers:** 
+
+[Post-doc in urban economics starting 09/2026](/corjolis_postdoc_2026.pdf)  (see the offer on [Econjobmarket](https://econjobmarket.org/positions/12256))
+
+[PhD in geography starting 03-04/2026](/corjolis_PhD_geo_luxembourg.pdf) (see online [description and application](https://recruitment.uni.lu/en/details.html?nPostingId=113498&nPostingTargetId=160410&id=QMUFK026203F3VBQB7V7VV4S8&LG=UK&languageSelect=UK&sType=Social%20Recruiting&mask=karriereseiten))
+
 
 ### **Short presentation**
 

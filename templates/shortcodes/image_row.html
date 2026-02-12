@@ -1,18 +1,10 @@
+
+
+
 <div class="image-row">
 {% for img in images %}
   <div class="image-row-item">
-
-    {# Set width with default if not provided #}
-    {% set w = img.width | default(value=300) %}
-
-    {# Resize image safely using 'fit' to preserve aspect ratio #}
-    {% set resized = resize_image(
-        path=img.src,
-        width=w,
-        op="fit"
-    ) %}
-
-    <img src="{{ resized.url }}" alt="{{ img.alt }}">
+    <img src="{{ img.src }}" alt="{{ img.alt | default(value='') }}">
   </div>
 {% endfor %}
 </div>
