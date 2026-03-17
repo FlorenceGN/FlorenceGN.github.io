@@ -6,7 +6,7 @@ weight = 1
 
 ## Work in progress 
 
-* *Neighbourhood effects and job search behaviors* (with [Marie Aurélie Lapierre](https://marieaurelielapierre.github.io/), submitted)    
+* *Neighbourhood effects and job search behaviors* (with [Marie Aurélie Lapierre](https://marieaurelielapierre.github.io/), R&R _J. of Eco. Behavior and Organization_)    
 This article aims to test the influence of interactions with neighbors on the job-seeking behavior of unemployed
 individuals. Using data from the 2014-2019 Employment Surveys, which identify two nested levels of neighborhoods,
 we estimate a model of endogenous and contextual effects à la Manski (1993) applied to different job search
