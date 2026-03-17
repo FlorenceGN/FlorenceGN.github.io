@@ -4,4 +4,4 @@ weight = 3
 +++
 
 
-[My CV](/FGN_CV_EN_2024_12.pdf)
+[My CV](/FGN_CV_EN_2026_03.pdf)
